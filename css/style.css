@@ -1,0 +1,14 @@
+@media screen, projection {
+
+:root {
+    --accent: #0000EE;
+    --link: #0000EE;
+    --hover: #0000EE;
+    --visited: #357EDD;
+}
+
+} /* End screen query */
+
+@media print {
+
+} /* End print query */
